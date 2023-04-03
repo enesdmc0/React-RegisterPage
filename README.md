@@ -11,7 +11,7 @@
 
 ## About The Project
 
-### Netlify Link :  [https://dmcbookingapp.netlify.app/](https://dmcbookingapp.netlify.app/)
+### Netlify Link :  [https://react-register-page-pearl.vercel.app/](https://react-register-page-pearl.vercel.app/)
 
 
 
@@ -47,7 +47,7 @@
 - [ ✉️ enesdmcc@gmail.com]()
 - Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
 
-- Project Link: [https://github.com/enesdmc0/MERN-BookingApp](https://github.com/enesdmc0/MERN-BookingApp)
+- Project Link: [https://github.com/enesdmc0/React-RegisterPage](https://github.com/enesdmc0/React-RegisterPage)
 
   
 
